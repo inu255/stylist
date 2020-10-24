@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77 69.774">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fd016e;
+      }
+
+      .cls-1 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M58.75-41.6c-8.181,0-14.935,5.884-19,10-4.15-4.082-10.836-10-19-10-11.956,0-20,7.925-20,20,0,26.217,34.48,48.129,36,49a4.427,4.427,0,0,0,5,0c1.452-.905,36-21.937,36-48C77.631-33.256,70.347-41.6,58.75-41.6Zm-20,65s-33-21.259-33-45c0-9.172,5.828-15,15-15s17.292,12,19,12,9.828-12,19-12,14,5.828,14,15C72.819,1.919,38.75,23.4,38.75,23.4Z" transform="translate(-0.75 41.6)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M-256.482,4889.531h1708v-5227h-1708Z" transform="translate(256 337)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_63" data-name="Group 63" transform="translate(-0.75 41.6)">
+    <g id="Group_2" data-name="Group 2" class="cls-3" transform="translate(0.75 -41.6)">
+      <g id="Group_1" data-name="Group 1" class="cls-4" transform="translate(-438.518 -504.531)">
+        <path id="Path_1" data-name="Path 1" class="cls-2" d="M-4.71-47.06h94v88h-94Z" transform="translate(434.228 542.591)"/>
+      </g>
+    </g>
+  </g>
+</svg>
